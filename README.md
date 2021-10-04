@@ -1,9 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am shaista and i am a developer. I am from West Bengal  and i am currently learning python  .You can find me on
 
-<a href="https://discord.com/channels/#7012">
-  <img align="left" alt="shaista's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
 <a href="https://www.linkedin.com/#">
   <img align="left" alt="shaista's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
