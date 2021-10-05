@@ -4,9 +4,6 @@ I am shaista and i am a developer. I am from West Bengal  and i am currently lea
 <a href="https://www.github.com/#">
   <img align="left" alt="shaista's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-
-
-<br/>
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
