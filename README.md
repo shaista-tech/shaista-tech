@@ -1,9 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am shaista and i am a developer. I am from West Bengal  and i am currently learning python  .You can find me on
 
-<a href="https://www.github.com/#">
-  <img align="left" alt="shaista's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/ma
- 🔧 Technologies & Tools
+🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-visualstudiocode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
