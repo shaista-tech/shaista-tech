@@ -6,10 +6,6 @@ I am shaista and i am a developer. I am from West Bengal  and i am currently lea
 </a>
 
 
-<a href="https://blogger.com/#">
-    <img align="left" alt="shaista's github" width="22px" src="https://user-images.githubusercontent.com/72285021/116783774-4d216e00-aaae-11eb-8b57-4a193d06ccd4.png">
-</a>
-
 <br/>
 <br/>
 <a href="https://github.com/shaista-tech" >
