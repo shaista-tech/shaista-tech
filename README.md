@@ -7,11 +7,6 @@ I am shaista and i am a developer. I am from West Bengal  and i am currently lea
 
 
 <br/>
-<br/>
-<a href="https://github.com/shaista-tech" >
-<img align="center" alt="shaista's coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</a>
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
